@@ -1,5 +1,9 @@
 # SQL Queering Homework :taco:
 
+**Note to student**
+Hey there :) if you found this, well done. You should use it to check your answer. If you just use it to copy that is fine.. but you are really cheating yourself :(  Not good. Do your best! I'm here to help you achieve more! :happy:
+**End of note to student**
+
 Use your sequel sever to run the queries and come to an answer.
 Pay attention to detail, as there is ONE right answer and following guidelines & or instructions is an important skill for consultants.
 
