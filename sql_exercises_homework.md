@@ -14,12 +14,14 @@ Your response should always be the **SQL query** + the short answer where approp
 ### Q1 - How many orders in NWDB?
 
 Query:
+
 Response:
 
 
 ### Q2 - How many order that the Ship City is Rio de Janeiro?
 
 Query:
+
 Response:
 
 ### Q3 - Select all orders that the Ship City is Rio de Janeiro or Reims?
