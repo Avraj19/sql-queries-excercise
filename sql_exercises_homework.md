@@ -36,13 +36,13 @@ Query:
 
 Response:
 
-### Q5 - We need to update all of our FAX information! This Day and age it is a must! :) Find me the Name of All of the companies that we do not have their FAX numbers! I would also like to know with whom I need to speak with, their contact numbers and what city they are base in.
+### Q5 - We need to update all of our FAX information! This Day and age it is a must! :sweat_smile::sweat_smile::sweat_smile: Find me the Name of All of the companies that we do not have their FAX numbers! I would also like to know with whom I need to speak with, their contact numbers and what city they are base in.
 
 Query:
 
 Response:
 
-### Q6 - Ahh there you are! My prize SPARTANTS! MY MARES AND MY STALLIONS! We need to re-target all of our Customers is Paris! Get me information on these clients.
+### Q6 - Ahh there you are! My prize :star::star:SPARTANTS:star::star:! MY MARES AND MY STALLIONS! We need to re-target all of our Customers is Paris! Get me information on these clients.
 
 Query:
 
