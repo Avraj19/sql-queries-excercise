@@ -35,6 +35,6 @@ Your response should always be the **SQL query** + the short answer where approp
 
 >>
 
-### Q7 - WAIT! Where are you going? (...) These clients are hard to sell too! We need more intel.. Can you find out, from these clients from France, whom orders the most by quantity? Who are our top 5 clients?  
+### Q7 - WAIT! Where are you going? (...) These clients are hard to sell too! We need more intel.. Can you find out, from these clients from Paris, whom orders the most by quantity? Who are our top 5 clients?  
 
 >>
